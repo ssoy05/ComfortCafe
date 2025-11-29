@@ -66,6 +66,6 @@ footer{
 
 #top {
    min-height: 100vh;
-   background-image: ulr(．/img/cafemain．jpg);
+   background-image: ulr(./img/cafemain.jpg);
    background-size: cover;
 } 
